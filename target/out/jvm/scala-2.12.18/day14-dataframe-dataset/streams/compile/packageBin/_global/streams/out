@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/day14-dataframe-dataset_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day14DataFrameDataset$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Day14DataFrameDataset$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day14DataFrameDataset$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Day14DataFrameDataset$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day14DataFrameDataset$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Day14DataFrameDataset$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day14DataFrameDataset$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Day14DataFrameDataset$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day14DataFrameDataset.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Day14DataFrameDataset.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day14/target/out/jvm/scala-2.12.18/day14-dataframe-dataset/classes/Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day14-dataframe-dataset/day14-dataframe-dataset_2.12-1.0.jar[0m
